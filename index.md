@@ -3,8 +3,8 @@ Daniel Emaasit [GitHub](https://github.com/emaasit/applied-sparkR)
 
 
 ```
-## Run time: 2015-01-24 11:34:34
-## R version: R version 3.1.1 (2014-07-10)
+## Run time: 2015-01-26 09:46:46
+## R version: R version 3.1.2 (2014-10-31)
 ```
 
 > **Background**
